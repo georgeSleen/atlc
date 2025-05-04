@@ -1,0 +1,5 @@
+atlc-finite_difference_multi_threaded.o: \
+ finite_difference_multi_threaded.c /usr/include/stdc-predef.h \
+ ../config.h
+/usr/include/stdc-predef.h:
+../config.h:
